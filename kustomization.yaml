@@ -3,4 +3,4 @@ kind: Kustomization
 namespace: hasura
 images:
   - name: postgres
-    newTag: 11@sha256:b0cfe264cb1143c7c660ddfd5c482464997d62d6bc9f97f8fdf3deefce881a8c
+    newTag: 16@sha256:d0f363f8366fbc3f52d172c6e76bc27151c3d643b870e1062b4e8bfe65baf609
